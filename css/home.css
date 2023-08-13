@@ -1,0 +1,23 @@
+body {
+	background-color: #111111;
+	background-image: url("/img/linen-patch.png");
+	background-repeat: repeat;
+
+	font-family: sans-serif;
+	font-weight: 300;
+}
+
+.home-content {
+	position: absolute;
+	top: 10%;
+	left: 10%;
+	right: 10%;
+	padding: 20px 40px 20px 40px;
+	background-color: rgba(140,140,140,0.5);
+	color: #ffffff;
+	opacity: .7;
+}
+
+a {
+	color: #ffffff;
+}
